@@ -5,10 +5,10 @@ With the help of KeyBERT embeddings we can also get keyphrases other than keywor
 Remark: I have processed with only few data from the given sample data due to slow machine in my house, the source code can also process on hundreds of millions of documents
 
 Requirements:
-Visualstudio code
-Extensions: Python 3.9 , SQLite3 version 3.37.2
-Libraries: Keybert (>pip install keybert), pandas, zipfile
-keybert[all] - for all backends (>pip install keybert[all])
+- Visualstudio code
+- Extensions: Python 3.9 , SQLite3 version 3.37.2
+- Libraries: Keybert (>pip install keybert), pandas, zipfile
+- keybert[all] - for all backends (>pip install keybert[all])
 
 
 About Task:
